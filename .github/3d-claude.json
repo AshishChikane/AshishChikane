@@ -1,0 +1,11 @@
+{
+  "type": "normal",
+  "fileName": "profile-claude.svg",
+  "backgroundColor": "#1F1E1D",
+  "foregroundColor": "#F0EEE6",
+  "strongColor": "#D97757",
+  "weakColor": "#A8A29E",
+  "radarColor": "#D97757",
+  "growingAnimation": true,
+  "contribColors": ["#2A2826", "#5C3A2E", "#8A4B35", "#B85F40", "#D97757"]
+}

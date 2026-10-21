@@ -2,6 +2,7 @@
 
 Full-stack developer working on **Web3 security**, **AI agents** and **developer tooling**.
 
+- Building [NoteDM](https://notedm.com), Instagram comment-to-DM automation with an AI video studio
 - Building [SignSafeli](https://github.com/AshishChikane/sol-security-transaction), a pre-sign AI firewall for Solana transactions
 - Shipping Claude Code plugins: [React Frontend Dev](https://github.com/AshishChikane/Frontend-dev-skills-react), [Sales Leads Engine](https://github.com/AshishChikane/Business-pitch-skills), [Website Audit](https://github.com/AshishChikane/marketing-skills-audit)
 - Working on LLM security, MCP servers and hardened ML pipelines
@@ -10,4 +11,4 @@ Full-stack developer working on **Web3 security**, **AI agents** and **developer
 
 [LinkedIn](https://www.linkedin.com/in/ashish-chikane-b579651bb/) · [X](https://x.com/ashu_chikane) · [ashishc0046@gmail.com](mailto:ashishc0046@gmail.com)
 
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshishChikane&layout=compact&langs_count=6&hide_border=true" alt="Top languages" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshishChikane&layout=compact&langs_count=6&hide_border=true&title_color=D97757&icon_color=D97757" alt="Top languages" />

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="12" viewBox="0 0 1000 12" role="img" aria-label="divider">
+<defs><linearGradient id="d" x1="0" x2="1">
+<stop offset="0" stop-color="#D97757" stop-opacity="0"/><stop offset=".5" stop-color="#D97757"/><stop offset="1" stop-color="#D97757" stop-opacity="0"/>
+</linearGradient></defs>
+<style>@keyframes s{0%{transform:translateX(-600px)}100%{transform:translateX(1000px)}}.b{animation:s 3.2s cubic-bezier(.6,0,.4,1) infinite}</style>
+<rect y="5" width="1000" height="2" rx="1" fill="#D97757" fill-opacity=".18"/>
+<rect class="b" y="4" width="600" height="4" rx="2" fill="url(#d)"/>
+</svg>
