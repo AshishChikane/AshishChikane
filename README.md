@@ -1,12 +1,12 @@
 <!-- Claude palette: coral #D97757 · deep coral #C15F3C · ink #1F1E1D · cream #F0EEE6 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F1E1D,55:C15F3C,100:D97757&height=230&section=header&text=Ashish%20Chikane&fontSize=60&fontColor=FAF9F5&fontAlignY=36&desc=Full-Stack%20%C2%B7%20Web3%20Security%20%C2%B7%20AI%20Agents&descAlignY=58&descSize=19&animation=twinkling" alt="Ashish Chikane" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F1E1D,55:C15F3C,100:D97757&height=230&section=header&text=Ashish%20Chikane&fontSize=60&fontColor=FAF9F5&fontAlignY=36&desc=AI%20%2F%20ML%20%C2%B7%20Blockchain%20%C2%B7%20LLM%20Security&descAlignY=58&descSize=19&animation=twinkling" alt="Ashish Chikane" />
 </p>
 
 <p align="center">
   <a href="https://github.com/AshishChikane">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=700&color=D97757&center=true&vCenter=true&width=720&lines=Building+NoteDM%3A+comments+%E2%86%92+DMs+%E2%86%92+sales;Building+SignSafeli%3A+an+AI+firewall+for+Solana;Shipping+Claude+Code+plugins+and+MCP+servers;React+%2B+TypeScript+frontends+that+ship;Python+and+Node+backends+with+LLMs+inside" alt="Typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=700&color=D97757&center=true&vCenter=true&width=720&lines=AI%2FML+engineer+%C2%B7+blockchain+developer;LLM+agents+and+multi-agent+pipelines;Pre-sign+AI+firewall+for+Solana;Smart+contracts+and+EVM+wallet+infra;Secure+MLOps+with+PyTorch" alt="Typing animation" />
   </a>
 </p>
 
@@ -56,32 +56,63 @@
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-## About me
+## What I focus on
 
-- **Full-stack builder.** React and TypeScript frontends, Node and Python APIs, and the LLM logic that ties them together.
-- **Security-minded.** Transaction firewalls, LLM guardrails, secret and dependency scanners, and hardened ML pipelines.
-- **Claude Code power user.** I publish plugins and skills for React development, sales prospecting, website audits and LinkedIn automation.
-- **5+ years on GitHub,** from React dashboards and booking apps to smart contracts, AI agents and security tooling.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>AI / ML</h3>
+      <ul>
+        <li><b>LLM agents:</b> multi-agent pipelines that research, enrich and write structured data</li>
+        <li><b>LLM apps:</b> FastAPI services with LangChain, Groq and Claude</li>
+        <li><b>MCP servers:</b> tools that plug models into real systems</li>
+        <li><b>LLM security:</b> guardrails, redaction and logging for AI tools</li>
+        <li><b>Secure MLOps:</b> PyTorch training behind secret, dependency and model scanners</li>
+        <li><b>Generative media:</b> AI video and image generation in NoteDM's AI Studio</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Blockchain</h3>
+      <ul>
+        <li><b>Solana security:</b> simulating and risk-scoring transactions before they are signed</li>
+        <li><b>Smart contracts:</b> Solidity contracts for batch payouts on EVM chains</li>
+        <li><b>Wallet infrastructure:</b> Turnkey embedded wallets with email OTP, signing through ethers and viem</li>
+        <li><b>AI x crypto:</b> guardrails for autonomous agents that hold keys and sign transactions</li>
+        <li><b>dApp frontends:</b> React and TypeScript interfaces for wallet flows</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ## Tech stack
 
+<p align="center"><b>AI / ML</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,py,bash,react,nextjs,vite,tailwind,redux&perline=9&theme=dark" alt="Languages and frontend" />
+  <img src="https://skillicons.dev/icons?i=py,pytorch,fastapi,flask&theme=dark" alt="Python, PyTorch, FastAPI, Flask" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,solidity,kubernetes,terraform,jenkins,githubactions&perline=9&theme=dark" alt="Backend, Web3 and DevOps" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman&perline=5&theme=dark" alt="Tools" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=FAF9F5" alt="Claude Code" />
-  <img src="https://img.shields.io/badge/MCP-1F1E1D?style=for-the-badge&logo=modelcontextprotocol&logoColor=D97757" alt="MCP" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=FAF9F5" alt="Claude" />
   <img src="https://img.shields.io/badge/LangChain-1F1E1D?style=for-the-badge&logo=langchain&logoColor=D97757" alt="LangChain" />
   <img src="https://img.shields.io/badge/Groq-1F1E1D?style=for-the-badge&logoColor=D97757" alt="Groq" />
+  <img src="https://img.shields.io/badge/MCP-1F1E1D?style=for-the-badge&logo=modelcontextprotocol&logoColor=D97757" alt="MCP" />
+  <img src="https://img.shields.io/badge/LLM%20Guard-1F1E1D?style=for-the-badge&logoColor=D97757" alt="LLM Guard" />
   <img src="https://img.shields.io/badge/Higgsfield%20AI-1F1E1D?style=for-the-badge&logoColor=D97757" alt="Higgsfield AI" />
-  <img src="https://img.shields.io/badge/Solana-1F1E1D?style=for-the-badge&logo=solana&logoColor=D97757" alt="Solana" />
+</p>
+
+<p align="center"><b>Blockchain</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=solidity&theme=dark" alt="Solidity" />
+  <br/>
+  <img src="https://img.shields.io/badge/Solana-D97757?style=for-the-badge&logo=solana&logoColor=FAF9F5" alt="Solana" />
+  <img src="https://img.shields.io/badge/Ethereum%20%2F%20EVM-1F1E1D?style=for-the-badge&logo=ethereum&logoColor=D97757" alt="Ethereum / EVM" />
   <img src="https://img.shields.io/badge/Ethers.js-1F1E1D?style=for-the-badge&logo=ethereum&logoColor=D97757" alt="Ethers.js" />
-  <img src="https://img.shields.io/badge/shadcn%2Fui-1F1E1D?style=for-the-badge&logo=shadcnui&logoColor=D97757" alt="shadcn/ui" />
+  <img src="https://img.shields.io/badge/viem-1F1E1D?style=for-the-badge&logoColor=D97757" alt="viem" />
+  <img src="https://img.shields.io/badge/Avalanche-1F1E1D?style=for-the-badge&logo=avalanche&logoColor=D97757" alt="Avalanche" />
+  <img src="https://img.shields.io/badge/Turnkey-1F1E1D?style=for-the-badge&logoColor=D97757" alt="Turnkey" />
+</p>
+
+<p align="center"><b>Product and infrastructure</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,express,react,nextjs,tailwind,kubernetes,terraform,githubactions,linux&perline=10&theme=dark" alt="TypeScript, Node, Express, React, Next.js, Tailwind, Kubernetes, Terraform, GitHub Actions, Linux" />
 </p>
 
 <img src="assets/divider.svg" width="100%" alt="" />
@@ -91,50 +122,38 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/AshishChikane/cli-agent-logger">AI CLI Logger</a></h3>
-      <p>A background service that records sessions from Claude Code, Gemini CLI and other AI coding CLIs. Records pass through a redaction step and are deduplicated into a local store, which can ship them to a remote sink. Adding a new source takes one file.</p>
-      <img src="https://img.shields.io/badge/Python-1F1E1D?style=flat-square&logo=python&logoColor=D97757" /> <img src="https://img.shields.io/badge/Claude%20Code%20Hooks-1F1E1D?style=flat-square&logo=anthropic&logoColor=D97757" />
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/AshishChikane/Frontend-dev-skills-react">React Frontend Dev plugin</a></h3>
-      <p>A Claude Code plugin with 5 skills: <code>/react-init</code>, <code>/react-feature</code>, <code>/react-component</code>, <code>/react-audit</code> and <code>/react-standards</code>. Before it generates code, it reads the project's existing conventions so it doesn't break an established codebase.</p>
-      <img src="https://img.shields.io/badge/Next.js-1F1E1D?style=flat-square&logo=nextdotjs&logoColor=D97757" /> <img src="https://img.shields.io/badge/Tailwind-1F1E1D?style=flat-square&logo=tailwindcss&logoColor=D97757" /> <img src="https://img.shields.io/badge/Claude%20Code-1F1E1D?style=flat-square&logo=anthropic&logoColor=D97757" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/AshishChikane/Business-pitch-skills">Sales Leads Engine</a></h3>
-      <p>Turns a startup description into segmented prospect lists, investor lists and role-specific cold emails with 5-step follow-up sequences. It can also send the emails from Gmail, Outlook, Yahoo or Zoho.</p>
-      <img src="https://img.shields.io/badge/Python-1F1E1D?style=flat-square&logo=python&logoColor=D97757" /> <img src="https://img.shields.io/badge/Claude%20Code-1F1E1D?style=flat-square&logo=anthropic&logoColor=D97757" />
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/AshishChikane/marketing-skills-audit">Website Audit (SEO / AEO / GEO)</a></h3>
-      <p>Runs 60+ checks across 6 categories and produces a scored, interactive HTML report with recommendations ranked by priority.</p>
-      <img src="https://img.shields.io/badge/HTML-1F1E1D?style=flat-square&logo=html5&logoColor=D97757" /> <img src="https://img.shields.io/badge/Claude%20Code-1F1E1D?style=flat-square&logo=anthropic&logoColor=D97757" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
       <h3><a href="https://github.com/AshishChikane/Call-center-leads-scraping">Contact Discovery Agent</a></h3>
       <p>A multi-agent B2B lead pipeline. It sources target companies, finds decision-makers through Hunter.io, adds company data with citation links, and writes the approved rows to Google Sheets.</p>
-      <img src="https://img.shields.io/badge/Multi--agent-1F1E1D?style=flat-square&logoColor=D97757" /> <img src="https://img.shields.io/badge/MCP-1F1E1D?style=flat-square&logo=modelcontextprotocol&logoColor=D97757" />
+      <img src="https://img.shields.io/badge/Multi--agent-1F1E1D?style=flat-square&logoColor=D97757" /> <img src="https://img.shields.io/badge/MCP-1F1E1D?style=flat-square&logo=modelcontextprotocol&logoColor=D97757" /> <img src="https://img.shields.io/badge/Claude-1F1E1D?style=flat-square&logo=anthropic&logoColor=D97757" />
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/AshishChikane/mlops-hardened-pipeline-poc">Hardened MLOps pipeline</a></h3>
-      <p>A security-gated ML pipeline. It trains a model, runs secret, dependency and model scanners, and lets a gatekeeper step decide whether the pipeline passes.</p>
-      <img src="https://img.shields.io/badge/Shell-1F1E1D?style=flat-square&logo=gnubash&logoColor=D97757" /> <img src="https://img.shields.io/badge/Python-1F1E1D?style=flat-square&logo=python&logoColor=D97757" />
+      <p>A security-gated ML pipeline. It trains a PyTorch model, runs secret, dependency and model scanners, and lets a gatekeeper step decide whether the pipeline passes.</p>
+      <img src="https://img.shields.io/badge/PyTorch-1F1E1D?style=flat-square&logo=pytorch&logoColor=D97757" /> <img src="https://img.shields.io/badge/Python-1F1E1D?style=flat-square&logo=python&logoColor=D97757" /> <img src="https://img.shields.io/badge/Shell-1F1E1D?style=flat-square&logo=gnubash&logoColor=D97757" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/AshishChikane/prediction_market_bot">Prediction Market Bot API</a></h3>
-      <p>A FastAPI service that uses LangChain and Groq to decide which side a bet favors. It returns a confidence level and its reasoning.</p>
-      <img src="https://img.shields.io/badge/FastAPI-1F1E1D?style=flat-square&logo=fastapi&logoColor=D97757" /> <img src="https://img.shields.io/badge/LangChain-1F1E1D?style=flat-square&logo=langchain&logoColor=D97757" />
+      <h3><a href="https://github.com/AshishChikane/TurnKey-Agent">Turnkey wallet agent</a></h3>
+      <p>Embedded wallets built on Turnkey. Users sign in with an email OTP, each user gets their own sub-organization, and transactions are signed through ethers and viem.</p>
+      <img src="https://img.shields.io/badge/Turnkey-1F1E1D?style=flat-square&logoColor=D97757" /> <img src="https://img.shields.io/badge/viem-1F1E1D?style=flat-square&logoColor=D97757" /> <img src="https://img.shields.io/badge/Ethers.js-1F1E1D?style=flat-square&logo=ethereum&logoColor=D97757" /> <img src="https://img.shields.io/badge/React-1F1E1D?style=flat-square&logo=react&logoColor=D97757" />
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/AshishChikane/linkedin-automation-claude">LinkedIn Automation skill</a></h3>
-      <p>A Claude Code skill for publishing posts, commenting, uploading images and managing your profile on LinkedIn through Rube MCP. Installs with one command.</p>
-      <img src="https://img.shields.io/badge/Shell-1F1E1D?style=flat-square&logo=gnubash&logoColor=D97757" /> <img src="https://img.shields.io/badge/Rube%20MCP-1F1E1D?style=flat-square&logo=modelcontextprotocol&logoColor=D97757" />
+      <h3><a href="https://github.com/AshishChikane/prediction_market_bot">Prediction Market Bot API</a></h3>
+      <p>A FastAPI service that uses LangChain and Groq to decide which side a bet favors. It returns a confidence level and its reasoning.</p>
+      <img src="https://img.shields.io/badge/FastAPI-1F1E1D?style=flat-square&logo=fastapi&logoColor=D97757" /> <img src="https://img.shields.io/badge/LangChain-1F1E1D?style=flat-square&logo=langchain&logoColor=D97757" /> <img src="https://img.shields.io/badge/Groq-1F1E1D?style=flat-square&logoColor=D97757" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/AshishChikane/cli-agent-logger">AI CLI Logger</a></h3>
+      <p>A background service that records sessions from Claude Code, Gemini CLI and other AI coding CLIs. Records pass through a redaction step and are deduplicated into a local store, which can ship them to a remote sink.</p>
+      <img src="https://img.shields.io/badge/Python-1F1E1D?style=flat-square&logo=python&logoColor=D97757" /> <img src="https://img.shields.io/badge/LLM%20Security-1F1E1D?style=flat-square&logoColor=D97757" /> <img src="https://img.shields.io/badge/Claude%20Code-1F1E1D?style=flat-square&logo=anthropic&logoColor=D97757" />
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/AshishChikane/mcp-demo-workflow">MCP server workflow</a></h3>
+      <p>A Model Context Protocol server built with FastMCP and served over HTTP, so models can call your tools directly.</p>
+      <img src="https://img.shields.io/badge/FastMCP-1F1E1D?style=flat-square&logoColor=D97757" /> <img src="https://img.shields.io/badge/MCP-1F1E1D?style=flat-square&logo=modelcontextprotocol&logoColor=D97757" /> <img src="https://img.shields.io/badge/Python-1F1E1D?style=flat-square&logo=python&logoColor=D97757" />
     </td>
   </tr>
 </table>
@@ -145,36 +164,17 @@
 
 | Project | What it does | Stack |
 | :-- | :-- | :-- |
-| [BulkTransfer-crypto](https://github.com/AshishChikane/BulkTransfer-crypto) | Sends funds to many wallets in one smart contract call (EVM / Avalanche) | Node, Ethers.js, Solidity |
-| [TurnKey-Agent](https://github.com/AshishChikane/TurnKey-Agent) | Turnkey wallet integration with email OTP auth | Node, React |
+| [BulkTransfer-crypto](https://github.com/AshishChikane/BulkTransfer-crypto) | Sends funds to many wallets in one smart contract call (EVM / Avalanche) | Solidity, Ethers.js |
 | [sdk-python-node](https://github.com/AshishChikane/sdk-python-node) | The same SDK written for both Python and Node | TypeScript, Python |
-| [mcp-demo-workflow](https://github.com/AshishChikane/mcp-demo-workflow) | Demo MCP server over HTTP using FastMCP | Python |
-| [publix-flask-backend](https://github.com/AshishChikane/publix-flask-backend) | Flask API with Kubernetes and Terraform deployment configs | Python, K8s, Terraform |
 | [chatbox-underwriter](https://github.com/AshishChikane/chatbox-underwriter) | Underwriting chatbot prototype | Python |
 | [Image-to-video](https://github.com/AshishChikane/Image-to-video-frontend) | Image-to-video generation app ([backend](https://github.com/AshishChikane/Image-to-video-backend)) | React, Node |
-| [react-app-jenkins](https://github.com/AshishChikane/react-app-jenkins) | React app with a Jenkins CI/CD pipeline | React, Jenkins |
-| [payment-cashfree-dashboard](https://github.com/AshishChikane/payment-cashfree-dashboard) | Payments dashboard integrated with Cashfree | React |
-| [booking_app](https://github.com/AshishChikane/booking_app_frontend) | Full-stack booking app ([backend](https://github.com/AshishChikane/booking_app_backend)) | React, Node |
+| [Frontend-dev-skills-react](https://github.com/AshishChikane/Frontend-dev-skills-react) | Claude Code plugin with 5 React skills (init, feature, component, audit, standards) | Claude Code |
+| [Business-pitch-skills](https://github.com/AshishChikane/Business-pitch-skills) | Claude Code plugin that builds prospect lists and writes cold email sequences | Claude Code |
+| [marketing-skills-audit](https://github.com/AshishChikane/marketing-skills-audit) | Claude Code plugin that audits websites for SEO, AEO and GEO | Claude Code |
+| [linkedin-automation-claude](https://github.com/AshishChikane/linkedin-automation-claude) | Claude Code skill for LinkedIn posting and profile management | Shell, Rube MCP |
+| [publix-flask-backend](https://github.com/AshishChikane/publix-flask-backend) | Flask API with Kubernetes and Terraform deployment configs | Python, K8s, Terraform |
 
 </details>
-
-<img src="assets/divider.svg" width="100%" alt="" />
-
-## Contributions
-
-<!-- Generated daily by .github/workflows/profile-3d.yml -->
-<p align="center">
-  <img src="profile-3d-contrib/profile-claude.svg" width="100%" alt="3D contribution chart" />
-</p>
-
-<!-- Generated daily by .github/workflows/snake.yml -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AshishChikane/AshishChikane/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AshishChikane/AshishChikane/output/github-snake.svg" />
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/AshishChikane/AshishChikane/output/github-snake.svg" />
-  </picture>
-</p>
 
 <img src="assets/divider.svg" width="100%" alt="" />
 

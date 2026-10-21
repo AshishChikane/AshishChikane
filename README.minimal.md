@@ -1,12 +1,12 @@
 ### Hi, I'm Ashish Chikane
 
-Full-stack developer working on **Web3 security**, **AI agents** and **developer tooling**.
+AI/ML engineer and blockchain developer.
 
+- **AI / ML:** LLM agents, multi-agent pipelines, MCP servers, LLM security, secure MLOps with PyTorch
+- **Blockchain:** Solana transaction security, Solidity smart contracts, Turnkey embedded wallets
 - Building [NoteDM](https://notedm.com), Instagram comment-to-DM automation with an AI video studio
 - Building [SignSafeli](https://github.com/AshishChikane/sol-security-transaction), a pre-sign AI firewall for Solana transactions
-- Shipping Claude Code plugins: [React Frontend Dev](https://github.com/AshishChikane/Frontend-dev-skills-react), [Sales Leads Engine](https://github.com/AshishChikane/Business-pitch-skills), [Website Audit](https://github.com/AshishChikane/marketing-skills-audit)
-- Working on LLM security, MCP servers and hardened ML pipelines
 
-**Stack:** TypeScript · JavaScript · Python · React · Next.js · Tailwind · Node · Express · FastAPI · Flask · LangChain · Solana · Ethers.js · Kubernetes · Terraform
+**Stack:** Python · PyTorch · FastAPI · LangChain · Groq · Claude · MCP · Solidity · Solana · Ethers.js · viem · TypeScript · React · Node
 
 [LinkedIn](https://www.linkedin.com/in/ashish-chikane-b579651bb/) · [X](https://x.com/ashu_chikane) · [ashishc0046@gmail.com](mailto:ashishc0046@gmail.com)
