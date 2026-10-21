@@ -10,5 +10,3 @@ Full-stack developer working on **Web3 security**, **AI agents** and **developer
 **Stack:** TypeScript · JavaScript · Python · React · Next.js · Tailwind · Node · Express · FastAPI · Flask · LangChain · Solana · Ethers.js · Kubernetes · Terraform
 
 [LinkedIn](https://www.linkedin.com/in/ashish-chikane-b579651bb/) · [X](https://x.com/ashu_chikane) · [ashishc0046@gmail.com](mailto:ashishc0046@gmail.com)
-
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshishChikane&layout=compact&langs_count=6&hide_border=true&title_color=D97757&icon_color=D97757" alt="Top languages" />

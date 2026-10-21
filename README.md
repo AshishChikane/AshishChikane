@@ -160,16 +160,7 @@
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-## GitHub stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AshishChikane&show_icons=true&count_private=true&include_all_commits=true&title_color=D97757&icon_color=D97757&text_color=F0EEE6&bg_color=1F1E1D&border_color=3E3B37&ring_color=D97757&rank_icon=github" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshishChikane&layout=compact&langs_count=8&title_color=D97757&text_color=F0EEE6&bg_color=1F1E1D&border_color=3E3B37" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AshishChikane&background=1F1E1D&border=3E3B37&stroke=3E3B37&ring=D97757&fire=D97757&currStreakLabel=D97757&currStreakNum=FAF9F5&sideNums=F0EEE6&sideLabels=F0EEE6&dates=A8A29E" alt="GitHub streak" />
-</p>
+## Contributions
 
 <!-- Generated daily by .github/workflows/profile-3d.yml -->
 <p align="center">
